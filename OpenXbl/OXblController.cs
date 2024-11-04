@@ -19,8 +19,10 @@ public class OXblController : BaseController {
 	[HttpGet(nameof(Login))]
 	public async Task<IActionResult> Login()
 	{
-		string code = "M.C502_BL2.2.U.e451ba03-b77f-f5d6-0f81-6bfb49008576";
-		string appKey = "e2b847de-5a5a-4b4e-9b1d-ce70c4fd368e";
+		// TODO: get the code and appkey from url/config
+
+		string code = "xxx";
+		string appKey = "xxx";
 
 		string url = "https://xbl.io/app/claim";
 
