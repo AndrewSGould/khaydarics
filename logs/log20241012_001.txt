@@ -1,0 +1,2 @@
+2024-10-12 23:08:13.018 -04:00 [INF] Starting up the application - Instance ID: "a4829c7b-9b93-40e6-a585-5344c74e9850"
+2024-10-12 23:10:57.013 -04:00 [INF] Starting up the application - Instance ID: "fa992a1f-01a9-47c4-982c-f1db1700eed8"

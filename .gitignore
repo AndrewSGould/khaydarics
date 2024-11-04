@@ -1,0 +1,64 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio Code files
+.vscode/
+.history/
+
+# Rider files
+.idea/
+*.sln.iml
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.pid
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+packages/
+**/packages/*
+# Ignore the packages folder (for dotnet cli)
+**/package-lock.json
+
+# Environment variables
+.env
+*.env
+
+# ASP.NET Core files
+appsettings*.json
+
+# Publish directory
+publish/
+
+# Docker files
+Dockerfile
+docker-compose*.yml
+
+# MacOS specific files
+.DS_Store
+
+# Windows specific files
+Thumbs.db
+ehthumbs.db
+
+# JetBrains Rider specific files
+.idea/
+*.sln.iml
+
+# Test results
+TestResults/
+*.trx
+*.coverage
